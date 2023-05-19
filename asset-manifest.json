@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.143955d1.css",
-    "main.js": "/static/js/main.516c7b1b.js",
+    "main.js": "/static/js/main.f184d48a.js",
     "static/media/github-mark-white.svg": "/static/media/github-mark-white.97ed8e7eef60d61ca469.svg",
     "index.html": "/index.html",
     "main.143955d1.css.map": "/static/css/main.143955d1.css.map",
-    "main.516c7b1b.js.map": "/static/js/main.516c7b1b.js.map"
+    "main.f184d48a.js.map": "/static/js/main.f184d48a.js.map"
   },
   "entrypoints": [
     "static/css/main.143955d1.css",
-    "static/js/main.516c7b1b.js"
+    "static/js/main.f184d48a.js"
   ]
 }
