@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.917bcc8b.css",
-    "main.js": "/static/js/main.e349baba.js",
+    "main.css": "/static/css/main.b1915c5d.css",
+    "main.js": "/static/js/main.36195e31.js",
     "static/media/github-mark-white.svg": "/static/media/github-mark-white.97ed8e7eef60d61ca469.svg",
     "index.html": "/index.html",
-    "main.917bcc8b.css.map": "/static/css/main.917bcc8b.css.map",
-    "main.e349baba.js.map": "/static/js/main.e349baba.js.map"
+    "main.b1915c5d.css.map": "/static/css/main.b1915c5d.css.map",
+    "main.36195e31.js.map": "/static/js/main.36195e31.js.map"
   },
   "entrypoints": [
-    "static/css/main.917bcc8b.css",
-    "static/js/main.e349baba.js"
+    "static/css/main.b1915c5d.css",
+    "static/js/main.36195e31.js"
   ]
 }
