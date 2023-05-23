@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.b1915c5d.css",
-    "main.js": "/static/js/main.36195e31.js",
+    "main.css": "/static/css/main.4fb6ba6b.css",
+    "main.js": "/static/js/main.d6b6124b.js",
+    "static/media/cisco.png": "/static/media/cisco.9c67dbac03ed0c388ad2.png",
     "static/media/github-mark-white.svg": "/static/media/github-mark-white.97ed8e7eef60d61ca469.svg",
     "index.html": "/index.html",
-    "main.b1915c5d.css.map": "/static/css/main.b1915c5d.css.map",
-    "main.36195e31.js.map": "/static/js/main.36195e31.js.map"
+    "main.4fb6ba6b.css.map": "/static/css/main.4fb6ba6b.css.map",
+    "main.d6b6124b.js.map": "/static/js/main.d6b6124b.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1915c5d.css",
-    "static/js/main.36195e31.js"
+    "static/css/main.4fb6ba6b.css",
+    "static/js/main.d6b6124b.js"
   ]
 }
