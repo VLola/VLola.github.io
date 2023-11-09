@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.4fb6ba6b.css",
-    "main.js": "/static/js/main.46081f32.js",
+    "main.js": "/static/js/main.ccdccbfd.js",
     "static/media/search-spread.mp4": "/static/media/search-spread.35a13b4138c8c70aae04.mp4",
+    "static/media/search-spread-asp-react.mkv": "/static/media/search-spread-asp-react.00399dc03da45aac3642.mkv",
     "static/media/cisco.png": "/static/media/cisco.9c67dbac03ed0c388ad2.png",
     "static/media/github-mark-white.svg": "/static/media/github-mark-white.97ed8e7eef60d61ca469.svg",
     "index.html": "/index.html",
     "main.4fb6ba6b.css.map": "/static/css/main.4fb6ba6b.css.map",
-    "main.46081f32.js.map": "/static/js/main.46081f32.js.map"
+    "main.ccdccbfd.js.map": "/static/js/main.ccdccbfd.js.map"
   },
   "entrypoints": [
     "static/css/main.4fb6ba6b.css",
-    "static/js/main.46081f32.js"
+    "static/js/main.ccdccbfd.js"
   ]
 }
